@@ -1,6 +1,6 @@
 create database VU_HOSPCLIN;
 Use VU_HOSPCLIN;
-CREATE TABLE geographical_location (
+create table geographical_location (
     Location_ID INT PRIMARY KEY,
     Village VARCHAR(100),
     Parish VARCHAR(100),
